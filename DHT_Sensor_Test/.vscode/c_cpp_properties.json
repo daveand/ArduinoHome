@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\David\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\David\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.6\\**",
+                "${workspaceFolder}/**"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Users\\David\\Documents\\Arduino\\ArduinoHome\\DHT_Sensor_Test",
+                    "C:\\Users\\David\\Documents\\Arduino\\libraries\\DHT_sensor_library",
+                    "C:\\Users\\David\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+                    "C:\\Users\\David\\Documents\\Arduino\\libraries\\Adafruit_ADXL343",
+                    "C:\\Users\\David\\Documents\\Arduino\\libraries\\WiFiNINA\\src",
+                    "C:\\Program Files (x86)\\Arduino\\libraries\\WiFi\\extras\\wifi_dnld\\src\\SOFTWARE_FRAMEWORK\\DRIVERS\\SPI",
+                    "C:\\Users\\David\\Documents\\Arduino\\libraries\\ArduinoJson\\src",
+                    "C:\\Users\\David\\Documents\\Arduino\\libraries\\ArduinoHttpClient\\src",
+                    "C:\\Users\\David\\Documents\\Arduino\\libraries\\ArduinoBLE\\src"
+                ]
+            },
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": [
+                "C:\\Users\\David\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.6\\cores\\arduino\\Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}

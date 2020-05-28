@@ -1,0 +1,5 @@
+{
+    "port": "COM3",
+    "board": "arduino:samd:mkrwifi1010",
+    "sketch": "BLE_Test.ino"
+}
